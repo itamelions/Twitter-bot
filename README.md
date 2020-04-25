@@ -26,6 +26,3 @@ And be sure to join the [Botmakers](https://botmakers.org/) online hangout and [
 
 \ ゜o゜)ノ
 # Twitter-bot
-# Twitter-bot
-# Twitter-bot
-# Twitter-bot
